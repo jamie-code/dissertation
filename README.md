@@ -8,4 +8,5 @@ All information is encrypted on your browser before being sent to the API.
 Some of the functionality doesn't scale well with mobile (right clicking for dropdowns etc) but I am currently working on a mobile app.
 
 *Note the API is not in the complete form as it was integrated into an existing API I made but it has all the components
-Demo website at https://jamiez.co.uk/test/login.php
+
+\nDemo website at https://jamiez.co.uk/test/login.php
